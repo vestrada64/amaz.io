@@ -28,7 +28,7 @@ class App extends Component {
         </header>
         <Router>
           <Switch>
-        <Link to='/catalogue'>Get Started</Link>
+        <Link to='/catalogue'>Time to shop!</Link>
         </Switch>
         </Router>
         <Router>
